@@ -1,5 +1,5 @@
 
-# Install
+# Install Mongo Cloud
 [1].Install Mongodb using `.tgz` file.
 
 [2].[References](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu-tarball/)
